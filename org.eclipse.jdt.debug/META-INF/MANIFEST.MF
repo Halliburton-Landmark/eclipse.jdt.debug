@@ -2,10 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: %pluginName
 Bundle-SymbolicName: org.eclipse.jdt.debug; singleton:=true
-Bundle-Version: 3.12.200.qualifier
+Bundle-Version: 3.12.200.lgc202407092000
 Bundle-ClassPath: jdi.jar,
- jdimodel.jar,
- tools.jar
+ jdimodel.jar
 Bundle-Activator: org.eclipse.jdt.internal.debug.core.JDIDebugPlugin
 Bundle-Vendor: %providerName
 Bundle-Localization: plugin
